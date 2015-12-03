@@ -36,6 +36,8 @@ sdk install sbt
 brew install git
 # OS X doesn't honour the path for git so we move the Apple version.
 sudo mv /usr/bin/git /usr/bin/git-apple
+# for those who don't do commandline
+brew cask install sourcetree
 # Generate SSH keys.
 ssh-keygen
 # Copy the SSH public key to the clip board, so you can put in github

@@ -1,2 +1,2 @@
 # Starting Area
-brew starter script for new laptop setups. Pick and choose as you see fit
+brew starter script for new laptop setups. Feel free to modify, pick and choose as you see fit
