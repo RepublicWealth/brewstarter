@@ -6,6 +6,9 @@ sudo xcodebuild
 brew update
 brew install caskroom/cask/brew-cask
 
+# VPN
+brew cask install tunnelblick
+
 # BROWSERS
 brew cask install firefox google-chrome
 
