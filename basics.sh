@@ -48,3 +48,6 @@ pbcopy < ~/.ssh/id_rsa.pub
 
 # IDEA
 brew cask install intellij-idea
+
+# Frontend
+brew install terminal-notifier
