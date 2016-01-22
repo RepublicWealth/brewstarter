@@ -24,8 +24,9 @@ mkdir ~/.nvm
 echo 'export NVM_DIR=~/.nvm' >> ~/.bash_profile
 echo 'source $(brew --prefix nvm)/nvm.sh' >> ~/.bash_profile
 # install the desired version of NodeJS
-nvm install 5.0
+nvm install 5.4
 npm install -g bower chromedriver gulp
+nvm alias default 5.4
 
 # GRADLE, SCALA and other Java related stuff using sdkman
 curl -s http://get.sdkman.io | bash
